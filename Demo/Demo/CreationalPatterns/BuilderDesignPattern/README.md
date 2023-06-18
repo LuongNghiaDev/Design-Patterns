@@ -1,4 +1,7 @@
 # Design-Patterns
-Strategy Design Pattern
+Builder Design Pattern
 
-- Áp dụng nguyên tắc thứ 2 của SOLID open-closed principle
+- Giúp chia nhỏ Contructor ra thành nhiều phần nhỏ hơn, giúp khởi tạo object bằng những hướng khác nhau
+
+- Đối với Contructor có số lượng parameter lớn hoặc data phức tạp lên dùng Builder
+
